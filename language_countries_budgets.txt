@@ -1,0 +1,62 @@
+["Indonesia"]	1100000.0
+["Iran"]	14690000.0
+["Ireland"]	99190000.0
+["Israel"]	3450000.0
+["Italy"]	261350000.0
+["Japan"]	7011919898.0
+["Kenya"]	15000.0
+["Kyrgyzstan"]	1400000.0
+["Libya"]	35000000.0
+["Mexico"]	77118775.0
+["Netherlands"]	50050000.0
+["New Line"]	90000000.0
+["New Zealand"]	1059850000.0
+["Nigeria"]	7500000.0
+["Norway"]	167100000.0
+["Official site"]	15000000.0
+["Pakistan"]	1000000.0
+["Panama"]	20000000.0
+["Peru"]	45000000.0
+["Philippines"]	7000.0
+["Poland"]	2400000.0
+["Romania"]	17758000.0
+["Russia"]	172700000.0
+["Slovenia"]	500000.0
+["South Africa"]	126000000.0
+["South Korea"]	16607520000.0
+["Soviet Union"]	1000000.0
+["Spain"]	1156050000.0
+["Sweden"]	50400000.0
+["Switzerland"]	35000000.0
+["Taiwan"]	30000000.0
+["Thailand"]	909000000.0
+["Turkey"]	8300000.0
+["UK"]	10485439127.0
+["USA"]	125467754035.0
+["Afghanistan"]	46000.0
+["Argentina"]	5700000.0
+["Aruba"]	35000000.0
+["Australia"]	1558605523.0
+["Bahamas"]	5000000.0
+["Belgium"]	49000000.0
+["Brazil"]	29200000.0
+["Bulgaria"]	7000000.0
+["Canada"]	1613032000.0
+["Chile"]	26000000.0
+["China"]	1431037000.0
+["Colombia"]	3000000.0
+["Czech Republic"]	146450000.0
+["Denmark"]	125300000.0
+["Dominican Republic"]	500000.0
+["Egypt"]	1500000.0
+["Finland"]	3850000.0
+["France"]	3987364500.0
+["Georgia"]	20000000.0
+["Germany"]	3005010000.0
+["Greece"]	18000000.0
+["Hong Kong"]	373100000.0
+["Hungary"]	2520000000.0
+["Iceland"]	13800000.0
+["India"]	1861493748.0
+["United Arab Emirates"]	125000.0
+["West Germany"]	41000000.0
